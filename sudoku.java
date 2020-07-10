@@ -69,7 +69,6 @@ public class sudoku {
         }
 
         int[] duplicatedArray = Arrays.copyOf(array, array.length);
-        
 
         Arrays.sort(duplicatedArray);
         // System.out.println(Arrays.toString(array));
